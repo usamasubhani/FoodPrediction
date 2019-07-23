@@ -1,4 +1,4 @@
-# Food Preictor
+# Food Predictor
 This app uses a machine learning model trained on Food101 dataset to classify food pictures.
 
   
